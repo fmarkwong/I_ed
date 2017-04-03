@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  * Shuffle the elements in an array
  *
  * @param array $inputArray An array to be randomized
